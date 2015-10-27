@@ -1,7 +1,7 @@
 thisplace.com challenge
 ==========
 
-Challenge located at [http://dev-challenge.thisplace.com]http://dev-challenge.thisplace.com
+Challenge located at [http://dev-challenge.thisplace.com](http://dev-challenge.thisplace.com)
 
 First install the node dependencies like so:
 
